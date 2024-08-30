@@ -12,16 +12,19 @@
 // ##################################################################
 //                 SETTINGS
 // ##################################################################
+
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:GOBD Groundlayout:
 Geo:GOOY Groundlayout:
 SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:25000
-LEADER:3
+LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -31,5 +34,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:14.272323:-18.789242:16.405658:-14.801342
-PLUGIN:TopSky plugin:ShowMapData:GOOO
 PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:ShowMapData:GOOO

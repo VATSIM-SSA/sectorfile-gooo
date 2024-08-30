@@ -12,15 +12,18 @@
 // ##################################################################
 //                 SETTINGS
 // ##################################################################
+
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:GQPP Groundlayout:
 SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:25000
-LEADER:3
+LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -29,6 +32,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:20.491819:-17.732610:21.365632:-16.099168
-PLUGIN:TopSky plugin:ShowMapData:GOOO,GQPP
+WINDOWAREA:20.491634:-17.732610:21.365817:-16.099168
 PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GQPP
