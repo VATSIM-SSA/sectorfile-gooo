@@ -12,6 +12,7 @@
 // ##################################################################
 //                 SETTINGS
 // ##################################################################
+
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
@@ -19,7 +20,7 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:25000
-LEADER:3
+LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5

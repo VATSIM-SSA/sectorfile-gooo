@@ -12,6 +12,7 @@
 // ##################################################################
 //                 SETTINGS
 // ##################################################################
+
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1

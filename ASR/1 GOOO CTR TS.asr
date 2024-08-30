@@ -1,11 +1,28 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GOOO CTR TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GOOO CTR TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:0
-LEADER:3
+LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -15,5 +32,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:-15.077434:-61.975163:33.428949:28.699111
-PLUGIN:TopSky plugin:ShowMapData:GOOO
 PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:ShowMapData:GOOO
