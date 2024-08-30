@@ -9,7 +9,7 @@ This is the Sector File Development Repository for the GOBD Dakar FIR for use on
 
 ## Overview
 
-Dakar Continental FIR is a Flight Information Region that spans multiple countries, namely Senegal (in full), Mauritania (in full), Ivory Coast (in full), Guinea-Bissau (partially), Mali (partially) and a slice of airspace from Burkina Faso.
+Dakar Continental FIR is a Flight Information Region that spans multiple countries, namely Senegal (in full), Gambia (in full) Mauritania (in full), Ivory Coast (in full), Guinea-Bissau (partially), Mali (partially) and a slice of airspace from Burkina Faso.
 
 Dakar Oceanic is part of the Dakar FIR, but operational purposes, we've split it from Dakar Continental.
 
@@ -18,6 +18,7 @@ As part of the Dakar (GOOO) Sector File, we also have the Roberts FIR (GLRB) whi
 ## Countries & Territories
 
 - Burkina Faso
+- [Gambia](https://eaip.vatssa.com/gambia)
 - [Guinea](https://eaip.vatssa.com/guinea)
 - [Guinea-Bissau](https://eaip.vatssa.com/guinea_bissau)
 - [Ivory Coast](https://eaip.vatssa.com/ivory_coast)
@@ -29,14 +30,15 @@ As part of the Dakar (GOOO) Sector File, we also have the Roberts FIR (GLRB) whi
 
 ## Key Airports
 
-- DIAP | Felix Houphouet Boigny Intl
-- GABS | Modibo Keita Intl
-- GFLL | Freetown Intl
-- GGOV | Osvaldo Vieira
-- GLRB | Roberts Intl
-- GOBD | Blaise Diagne Intl
-- GQNO | Nouakchott–Oumtounsy Intl
-- GUCY | Ahmed Sekou Toure Intl
+- DIAP | Felix Houphouet Boigny Intl (Ivory Coast)
+- GABS | Modibo Keita Intl (Mali)
+- GBYD | Banjul (Gambia)
+- GFLL | Freetown Intl (Sierra Leone)
+- GGOV | Osvaldo Vieira (Guinea-Bissau)
+- GLRB | Roberts Intl (Liberia)
+- GOBD | Blaise Diagne Intl (Senegal)
+- GQNO | Nouakchott–Oumtounsy Intl (Mauritania)
+- GUCY | Ahmed Sekou Toure Intl (Guinea)
 
 ## How to Contribute
 
