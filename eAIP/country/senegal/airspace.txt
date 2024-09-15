@@ -1,0 +1,7 @@
+===== Senegal Airspace =====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| GOOO  | Dakar Continental | [[GOOO]] | -       | - |
+| GOOO  | Dakar Oceanic     | [[GOOOO]] | Oceanic | - |
+
+{{page>go-footer#Senegal}}

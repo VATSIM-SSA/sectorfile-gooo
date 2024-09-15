@@ -1,0 +1,8 @@
+==== Mali Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[GABS]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>ga-footer#Mali}}

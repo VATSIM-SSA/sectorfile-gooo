@@ -1,0 +1,7 @@
+==== Mali Airspace ====
+
+^ ICAO  ^ Name  ^ SSA Code  ^ Type    ^ Remarks ^
+| GOOO  | Dakar | [[GOOO]]  | -       | - |
+
+
+{{page>ga-footer#Mali}}

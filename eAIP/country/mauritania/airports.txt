@@ -1,0 +1,8 @@
+==== Mauritania Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[GQNO]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>gq-footer#Mauritania}}

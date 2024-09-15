@@ -1,0 +1,27 @@
+===== GOBD Delivery =====
+
+==== IFR Clearance Rules ====
+
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+  * Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
+
+  * VFR flights are not allowed over and above the FL 150.
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+==== Departure Procedures & Initial Climbs ====
+
+  * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
+
+^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
+| 01  | 006º    | 3000 ft       | - |
+| 19  | 186º    | 3000  ft      | - |
+| //Please alert the pilots to the [[gobd-departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Delivery Clearance}}
+
+
+{{page>go-footer#GOBD}}

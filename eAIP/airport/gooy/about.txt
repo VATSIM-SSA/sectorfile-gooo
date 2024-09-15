@@ -1,0 +1,54 @@
+==== GOOY Information ====
+
+**Léopold Sédar Senghor International Airport** is an international freight and former passenger airport serving Dakar, the capital of [[senegal|Senegal]]. The airport is situated near the town of Yoff, a northern suburb of Dakar. It was known as Dakar-Yoff International Airport until 9 October 1996, when it was renamed in honor of Léopold Sédar Senghor, the first president of Senegal. 
+
+More information available at [[https://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport|Wikipedia]].
+
+==== Aerodrome Data ====
+
+| ICAO                | GOOY |
+| IATA                | DKR |
+| Elevation           | 85 ft |
+| Transition Altitude | 2600 ft |
+| Transition Level    | by aTC |
+| Mag Variation       | 087º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport&params=14_44_22_N_017_29_24_W_region:SN_type:airport|14°44′22″N 017°29′24″W]] |
+| Site | [[https://aeroport-dakar.com/|aeroport-dakar.com]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 03     | 031º    | 1493     | 1493     | 1523     | 1493    | - |
+| 18     | 181º    | 3490     | 3790     | 3550     | 3330    | - |
+| 21     | 211º    | 1493     | 1693     | 1523     | 1493    | - |
+| 36     | 001º    | 3490     | 3550     | 3550     | 3490    | - |
+
+
+==== Aprons ====
+^ Apron     ^ Type             ^ Stands   ^ Entry / Exit  ^ Remarks ^
+| Apron A   | Genegal Aviation | -         | Twy C         | - |
+| Apron B   | Genegal Aviation | -         | Twy C         | - |
+| Apron E   | Military         | -         | Twy M         | - |
+| Apron G   | -                | G15 - G29 | Twy D, Twy T  | - |
+| Apron H   | Cargo            | -         | Twy S         | - |
+| Apron J   | -                | J1 - J7, J9, J11, J13  | Twy S | - |
+| Apron K   | -                | -         | Twy P         | - |
+| Apron N   | Cargo            | J8, J10, J12, J14 | Twy S | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign        ^ Frequency ^ Remarks ^
+| GOOY_GND  | Yoff Ground     | 121.900   | //Fictional. For VATSIM Events only.// |
+| GOOY_TWR  | Yoff Tower      | 118.100   | - |
+| GOBD_APP  | Dakar Approach  | 120.500   | - |
+| GOOO_CTR  | Dakar Control   | 129.500   | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Dakar-Diass TMA   | D     | GOBD_APP | FL045 - FL145  | - |
+| Dakar-Diass TMA   | A     | GOBD_APP | FL145 - FL245  | - |
+| Dakar FIR/UIR     | A     | GOOO_CTR | FL245 - UNL    | - |
+
+{{page>go-footer#GOOY}}

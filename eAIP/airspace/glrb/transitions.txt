@@ -1,0 +1,8 @@
+===== GLRB Roberts Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#GLRB}}
+
+{{page>gl-footer#GLRB}}

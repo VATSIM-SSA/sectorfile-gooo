@@ -1,0 +1,12 @@
+==== GOOY Charts ====
+
+  * The following charts are sources from ASECNA's public AIP.
+  * There are currently no publicly available charts for the RNAV Approaches.
+
+^ Code ^ Description ^ URL ^ Remarks ^
+| ADC | Aerodrome Chart | [[https://aim.asecna.aero/html/eAIP/cartes/ad-2/ad2-24/13/13AD2-GOOY-ADC.pdf|Chart]] | - |
+| APDC | Parking Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar-%20L.S%20Senghor/13AD2-GOOY-APDC.pdf|Chart]] | - |
+| VAC | Visual Approach Chart | [[https://aim.asecna.aero/html/eAIP/cartes/atlas/senegal/Dakar-%20L.S%20Senghor/13AD2-GOOY-VAC.pdf|Chart]] | - |
+
+
+{{page>go-footer#GOOY}}

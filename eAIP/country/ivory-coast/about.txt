@@ -1,0 +1,8 @@
+===== Ivory Coast Information =====
+
+Ivory Coast, also known as Côte d'Ivoire, officially the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa. Its capital is Yamoussoukro, in the centre of the country, while its largest city and economic centre is the port city of Abidjan. It borders [[guinea|Guinea]] to the northwest, [[liberia|Liberia]] to the west, [[mali|Mali]] to the northwest, Burkina Faso to the northeast, [[ghana|Ghana]] to the east, and the Gulf of Guinea (Atlantic Ocean) to the south. Its official language is French, and indigenous languages are also widely used, including Bété, Baoulé, Dioula, Dan, Anyin, and Cebaara Senufo. In total, there are around 78 different languages spoken in Ivory Coast. The country has a religiously diverse population, including numerous followers of Christianity, Islam, and indigenous faiths. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Ivory_Coast|Wikipedia]].
+
+
+{{page>di-footer#Ivory Coast}}

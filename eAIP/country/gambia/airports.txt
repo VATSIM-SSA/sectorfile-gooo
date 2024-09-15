@@ -1,0 +1,8 @@
+==== The Gambia Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[GBYD]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>gb-footer#Gambia}}

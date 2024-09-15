@@ -1,0 +1,7 @@
+===== Guinea-Bissau Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[GGOV]]  | Osvaldo Vieira        | Bissau   | //In Development// | - |
+
+
+{{page>gg-footer#Guinea-Bissau}}

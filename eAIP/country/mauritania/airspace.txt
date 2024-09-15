@@ -1,0 +1,7 @@
+==== Mauritania Airspace ====
+
+^ ICAO  ^ Name  ^ SSA Code  ^ Type    ^ Remarks ^
+| GOOO  | Dakar | [[GOOO]]  | -       | - |
+
+
+{{page>gq-footer#Mauritania}}

@@ -1,0 +1,41 @@
+===== GOOY Approach =====
+
+==== Arrivals Procedures ====
+
+  * GOOY does not have any published arrivals. Pilots should be advised to level at 2100 ft for the RNAV to runway 36 (preferred landing runway).
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach      ^ Frequency     ^ Course ^ GP Angle ^ IAF       ^ Platform ^ Remarks ^
+| 18    | RNAV (GNSS)   | -             | 181º   | 3.00º    | TASUT     | 2100 ft  | - | 
+| 36    | RNAV (GNSS)   | -             | 001º   | 3.00º    | SIBIG     | 2100 ft  | - |
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn  ^ Leg Time ^ Remarks ^
+| TASUT | -     | A021 - FL040 | 230 KT  | 181º        | Right | 1 min    | - |
+| KODUS | -     | A021 - FL040 | 230 KT  | 091º        | Left  | 1 min    | - |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach      ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 18    | RNAV (GNSS)       | Climb straight ahead to OY502, then turn RIGHT climbing to 2100 ft direct GUTAR (and hold, if necessary) | TASUT | - | 
+| 36    | RNAV (GNSS)       | Climb straight ahead to OY504, then turn LEFT climbing to 2100 ft and hold | KODUS | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| TAA 18    | 0 nm         | 25 nm        | 001º        | 360º      | 1600 ft | - |
+| TAA 36    | :::          | :::          | :::         | :::       | :::     | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+
+
+
+{{page>go-footer#GOOY}}

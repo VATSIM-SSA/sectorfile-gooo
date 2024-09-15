@@ -1,0 +1,21 @@
+===== GLRB Roberts Flight Information Region =====
+
+  * The Roberts FIR covers the entirety of [[Guinea]], [[Liberia]] and [[Sierra Leone]]'s borders.
+
+==== Airport Coverage ====
+
+Roberts covers the following airports:
+
+=== Guinea ===
+
+{{page>guinea-airports#Guinea Airports}}
+
+=== Liberia ===
+
+{{page>liberia-airports#Liberia Airports}}
+
+=== Sierra Leone ===
+
+{{page>sierra_leone-airports#Sierra Leone Airports}}
+
+{{page>gl-footer#GLRB}}

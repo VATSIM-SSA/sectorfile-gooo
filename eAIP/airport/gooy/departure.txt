@@ -1,0 +1,24 @@
+===== GOOY Departure =====
+
+  * GOOY doesn't have a dedicated Departure Position, with Diass Approach (GOBD APP) assuming the role of Departure.
+  * Departure Coordination between GOOY and GOBD is critical. If necessary, Release Control to be assumed by Diass Approach (GOBD APP).
+
+
+==== Departure Procedures ====
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+  * If necessary, vector aircraft left (runway 36 departures) or right (runway 18 departures)
+
+
+==== Noise Abatement Procedures ====
+
+  * When take-off on RWY 36 with a clearance to turn right, the ACFT must maintain the RWY axis until 3000 ft before beginning right turn.
+  * When take-off on RWY 18 with a clearance to turn left, the ACFT must maintain the RWY axis during 3 minutes before beginning right turn.
+
+
+==== Coordinating GOBD & GOOY Departures ====
+
+  * Both [[GOBD]] and [[GOOY]] have North / South runways, 30 nm apart. When operating as Diass Approach (GOBD APP) and assuming the role of Departure, controllers must be mindful of simultaneous departures from both airports and keep aircraft separated.
+
+
+{{page>go-footer#GOOY}}
