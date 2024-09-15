@@ -17,7 +17,7 @@
 ^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
 | 01  | 006º    | 3000 ft       | - |
 | 19  | 186º    | 3000  ft      | - |
-| //Please alert the pilots to the [[gobd-departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
+| //Please alert the pilots to the [[departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
 
 === Phraseology ===
 
