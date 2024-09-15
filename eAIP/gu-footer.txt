@@ -1,4 +1,4 @@
 ===== Guinea Republic =====
 ----
 
-//This page is a subsection of the [[guinea|Guinea Republic]] country page.//
+//This page is a subsection of the [[country:guinea:home|Guinea Republic]] country page.//

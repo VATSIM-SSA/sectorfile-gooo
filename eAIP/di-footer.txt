@@ -1,4 +1,4 @@
 ===== Ivory Coast =====
 ----
 
-//This page is a subsection of the [[Ivory Coast]] country page.//
+//This page is a subsection of the [[country:ivory-coast:home|Ivory Coast]] country page.//

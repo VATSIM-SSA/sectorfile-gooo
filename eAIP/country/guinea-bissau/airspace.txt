@@ -1,7 +1,7 @@
 ==== Guinea-Bissau Airspace ====
 
 ^ ICAO  ^ Name  ^ SSA Code  ^ Type    ^ Remarks ^
-| GOOO  | Dakar | [[GOOO]]  | -       | - |
+| GOOO  | Dakar | [[airspace:gooo:home|GOOO]]  | -       | - |
 
 
 {{page>gg-footer#Guinea-Bissau}}

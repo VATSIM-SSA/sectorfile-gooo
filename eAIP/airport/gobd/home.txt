@@ -2,5 +2,6 @@
 
 {{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
 
+
 ----
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+[[country:senegal:home|Senegal]] (GO) Airports | [[airport:gobd:home|GOBD]] | [[airport:gooy:home|GOOY]]

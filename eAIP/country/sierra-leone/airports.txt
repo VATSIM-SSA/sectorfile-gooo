@@ -1,7 +1,7 @@
 ==== Sierra Leone Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[GFLL]]  | Name          | City          | In Development             | - |
+| [[airport:gfll:home|GFLL]]  | Name          | City          | In Development             | - |
 
 
 

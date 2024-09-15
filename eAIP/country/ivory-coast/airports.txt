@@ -1,7 +1,7 @@
 ===== Ivory Coast Airports =====
 
 ^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
-| [[DIAP]]  | Felix Houphouet Boigny Intl        | Abidjan   | //In Development// | - |
+| [[airport:diap:home|DIAP]]  | Felix Houphouet Boigny Intl        | Abidjan   | //In Development// | - |
 
 
 {{page>di-footer#Ivory Coast}}

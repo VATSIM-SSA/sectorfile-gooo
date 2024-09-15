@@ -4,4 +4,4 @@
 
 
 ----
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+[[country:senegal:home|Senegal]] (GO) Airports | [[airport:gobd:home|GOBD]] | [[airport:gooy:home|GOOY]]

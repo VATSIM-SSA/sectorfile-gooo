@@ -1,4 +1,4 @@
 ===== Liberia =====
 ----
 
-//This page is a subsection of the [[Liberia]] country page.//
+//This page is a subsection of the [[country:liberia:home|Liberia]] country page.//

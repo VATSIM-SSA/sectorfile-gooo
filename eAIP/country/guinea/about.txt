@@ -1,6 +1,6 @@
 ===== Guinea Republic Information =====
 
-Guinea, officially the Republic of Guinea, is a coastal country in West Africa. It borders the Atlantic Ocean to the west, [[guinea_bissau|Guinea-Bissau]] to the northwest, [[senegal|Senegal]] to the north, [[mali|Mali]] to the northeast, [[ivory_coast|Cote d'Ivoire]] to the southeast, and [[sierra_leone|Sierra Leone]] and [[liberia|Liberia]] to the south. It is sometimes referred to as Guinea-Conakry after its capital Conakry, to distinguish it from other territories in the eponymous region such as Guinea-Bissau and [[equatorial_guinea|Equatorial Guinea]]. It has a population of 13.5 million and an area of 245,857 square kilometres (94,926 sq mi). 
+Guinea, officially the Republic of Guinea, is a coastal country in West Africa. It borders the Atlantic Ocean to the west, [[country:guinea-bissau:home|Guinea-Bissau]] to the northwest, [[country:senegal:home|Senegal]] to the north, [[country:mali:home|Mali]] to the northeast, [[country:ivory-coast:home|Cote d'Ivoire]] to the southeast, and [[country:sierra-leone:home|Sierra Leone]] and [[country:liberia:home|Liberia]] to the south. It is sometimes referred to as Guinea-Conakry after its capital Conakry, to distinguish it from other territories in the eponymous region such as Guinea-Bissau and [[country:equatorial-guinea:home|Equatorial Guinea]]. It has a population of 13.5 million and an area of 245,857 square kilometres (94,926 sq mi). 
 
 For more information, please visit [[https://en.wikipedia.org/wiki/Guinea|Wikipedia]].
 

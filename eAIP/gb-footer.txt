@@ -1,4 +1,4 @@
 ===== The Gambia =====
 ----
 
-//This page is a subsection of the [[The Gambia]] country page.//
+//This page is a subsection of the [[country:gambia:home|The Gambia]] country page.//

@@ -1,4 +1,4 @@
 ===== Mauritania =====
 ----
 
-//This page is a subsection of the [[Mauritania]] country page.//
+//This page is a subsection of the [[country:mauritania:home|Mauritania]] country page.//

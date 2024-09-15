@@ -1,7 +1,7 @@
 ===== Guinea Republic Airports =====
 
 ^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
-| [[GUCY]]  | Ahmed Sekou Toure Intl        | Conakry   | //In Development// | - |
+| [[airport:gucy:home|GUCY]]  | Ahmed Sekou Toure Intl        | Conakry   | //In Development// | - |
 
 
 {{page>gu-footer#Guinea Republic}}

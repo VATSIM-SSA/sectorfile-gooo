@@ -1,7 +1,7 @@
 ==== Liberia Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[GLRB]]  | Name          | City          | In Development             | - |
+| [[airport:glrb:home|GLRB]]  | Name          | City          | In Development             | - |
 
 
 

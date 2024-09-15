@@ -1,8 +1,8 @@
 ===== Dakar Continental Information =====
 
-Dakar Continental FIR is a Flight Information Region that spans multiple countries, namely [[Senegal]] (in full), [[Mauritania]] (in full), [[Ivory Coast]] (in full), [[Guinea-Bissau]] (partially), [[Mali]] (partially) and a slice of airspace from Burkina Faso.
+Dakar Continental FIR is a Flight Information Region that spans multiple countries, namely [[country:senegal:home|Senegal]] (in full), [[country:mauritania:home|Mauritania]] (in full), [[country:ivory-coast:home|Ivory Coast]] (in full), [[country:guinea-bissau:home|Guinea-Bissau]] (partially), [[country:mali:home|Mali]] (partially) and a slice of airspace from Burkina Faso.
 
-[[goooo|Dakar Oceanic]] is part of the Dakar FIR, but operational purposes, we've split it from Dakar Continental.
+[[airspace:goooo:home|Dakar Oceanic]] is part of the Dakar FIR, but operational purposes, we've split it from Dakar Continental.
 
 
 ==== Airport Coverage ====
@@ -11,7 +11,7 @@ Dakar Continental covers the following airports:
 
 === Senegal ===
 
-{{page>senegal-airports#Senegal Airports}}
+{{page>country:senegal:airports#Senegal Airports}}
 
 
 

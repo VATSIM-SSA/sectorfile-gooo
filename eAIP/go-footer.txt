@@ -1,28 +1,28 @@
 ===== Senegal =====
 ----
 
-//This page is a subsection of the [[Senegal]] country page.//
+//This page is a subsection of the [[country:senegal:home|Senegal]] country page.//
 
 ===== GOOO =====
 
 ----
 
-[[GOOO]] Dakar Continental | v0.1
+[[airspace:gooo:home|GOOO]] Dakar Continental | v0.1
 
 ===== GOOOO =====
 
 ----
 
-[[GOOOO]] Dakar Oceanic | v0.1
+[[airspace:goooo:home|GOOOO]] Dakar Oceanic | v0.1
 
 ===== GOBD =====
 
 ----
 
-[[GOBD]] Blaise Diagne Intl | v0.1
+[[airport:gobd:home|GOBD]] Blaise Diagne Intl | v0.1
 
 ===== GOOY =====
 
 ----
 
-[[GOOY]] Leopold Sedar Senghor | v0.1
+[[airport:gooy:home|GOOY]] Leopold Sedar Senghor | v0.1

@@ -1,4 +1,4 @@
 ===== Mali =====
 ----
 
-//This page is a subsection of the [[Mali]] country page.//
+//This page is a subsection of the [[country:mali:home|Mali]] country page.//

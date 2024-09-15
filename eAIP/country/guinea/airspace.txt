@@ -1,7 +1,7 @@
 ==== Guinea Airspace ====
 
 ^ ICAO  ^ Name    ^ SSA Code  ^ Type    ^ Remarks ^
-| GLRB  | Roberts | [[GLRB]]  | -       | - |
+| GLRB  | Roberts | [[airspace:glrb:home|GLRB]]  | -       | - |
 
 
 {{page>gu-footer#Guinea}}
