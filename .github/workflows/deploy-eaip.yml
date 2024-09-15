@@ -20,7 +20,7 @@ jobs:
           username: ${{ secrets.EAIP_FTP_USER }}
           password: ${{ secrets.EAIP_FTP_PWD }}
           local-dir: "eAIP/"
-          state-name: ".ftp-deploy-sync-state-dgac.json"
+          state-name: ".ftp-deploy-sync-state-gooo.json"
           exclude: |
             **/.git*
             **/.git*/**
