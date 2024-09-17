@@ -19,21 +19,21 @@ More information available at [[https://en.wikipedia.org/wiki/Blaise_Diagne_Inte
 
 ==== Runways ====
 
-^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
-| 01 | 006º | 3500 | 3700 | 3620 | 3500 | - |
-| 19 | 186º | 3500 | 3600 | 3620 | 3500 | - |
+^ Runway  ^ Heading ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m) ^ Remarks ^
+| 01      | 006º    | 3500      | 3700      | 3620      | 3500    | -       |
+| 19      | 186º    | 3500      | 3600      | 3620      | 3500    | -       |
 
 
 ==== Aprons ====
 
 ^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
-| Apron G   | General Aviation  | Twy G         | - |
-| Apron J1  | Remote Stands     | Twy A4        | - |
-| Apron J2  | Remote Stands     | Twy A2        | - |
-| Apron N   | Overflow/ Remote  | Twy A1        | - |
-| Apron T   | Main Terminal     | Twy A3        | - |
-| Apron V   | Cargo             | Twy C8        | - |
-| Apron VIP | VIP               | Twy P         | - |
+| Apron G   | General Aviation  | Twy G         | -       |
+| Apron J1  | Remote Stands     | Twy A4        | -       |
+| Apron J2  | Remote Stands     | Twy A2        | -       |
+| Apron N   | Overflow/ Remote  | Twy A1        | -       |
+| Apron T   | Main Terminal     | Twy A3        | -       |
+| Apron V   | Cargo             | Twy C8        | -       |
+| Apron VIP | VIP               | Twy P         | -       |
 
 
 ==== Positions & Frequencies ====
