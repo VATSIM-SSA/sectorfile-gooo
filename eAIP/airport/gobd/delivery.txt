@@ -1,5 +1,9 @@
 ===== GOBD Delivery =====
 
+<note important>
+New Departure Procedures (RNAV) are now available.
+</note>
+
 ==== IFR Clearance Rules ====
 
   * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
@@ -12,11 +16,21 @@
 
 ==== Departure Procedures & Initial Climbs ====
 
-  * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
-
-^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
-| 01  | 006º    | 3000 ft       | - |
-| 19  | 186º    | 3000  ft      | - |
+^ RWY ^ Fix   ^ Departure ^ Type       ^ Initial Climb ^ Remarks ^
+| 01  | BIKIS | BIKI1B    | RNAV Dep   | FL070         | - |
+| ::: | LIMAX | LIMA1B    | :::        | FL070         | - |
+| ::: | SAKLI | SAKL1B    | :::        | FL070         | - |
+| ::: | BIDAV | BIDA1B    | :::        | FL070         | - |
+| ::: | ERIDI | ERID1B    | :::        | FL070         | - |
+| ::: | LIGOV | LIGO1B    | :::        | FL070         | - |
+| ::: | NURAS | NURA1B    | :::        | FL070         | - |
+| 19  | BIKIS | BIKI1H    | RNAV Dep   | FL070         | - |
+| ::: | LIMAX | LIMA1H    | :::        | FL070         | - |
+| ::: | SAKLI | SAKL1H    | :::        | FL070         | - |
+| ::: | BIDAV | BIDA1H    | :::        | FL070         | - |
+| ::: | ERIDI | ERID1H    | :::        | FL070         | - |
+| ::: | LIGOV | LIGO1H    | :::        | FL070         | - |
+| ::: | NURAS | NURA1H    | :::        | FL070         | - |
 | //Please alert the pilots to the [[departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
 
 === Phraseology ===

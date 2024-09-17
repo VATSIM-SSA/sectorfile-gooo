@@ -2,11 +2,12 @@
 //                 VATSSA | FIR GOOO | ASR | GOOO CTR TS
 // ##################################################################
 
-// Version 0.0.1
-// Update Date 06/04/2022
+// Version v0.0.2
+// Update Date 19/09/2024
 
 // Changelog
 // v0.0.1 | GOOO CTR TS Initial Setup
+// v0.0.2 | Updated the Leader Line to 20 Minutes
 
 
 // ##################################################################
@@ -22,7 +23,7 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:0
-LEADER:10
+LEADER:-20
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5

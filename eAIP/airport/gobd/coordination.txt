@@ -2,7 +2,7 @@
 
 ==== GOBD & GOOY ====
 
-  * GOBD/GOOY Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at GOBD and [[GOOY]]. In most cases, both airports will operate similar runway configurations (North/South). The fact that both airports are 30 nm apart allows for some maneuvering room, but during events, release management should be coordinated through Diass Approach.
+  * GOBD/GOOY Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at GOBD and [[airport:gooy:home|GOOY]]. In most cases, both airports will operate similar runway configurations (North/South). The fact that both airports are 30 nm apart allows for some maneuvering room, but during events, release management should be coordinated through Diass Approach.
 
 ==== GOBD & GVSC ====
 
