@@ -21,7 +21,7 @@
 ==== SLOP ====
 
   * The use of SLOP in Dakar Continental is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and FL460.
-  * Pilots are advised to coordinate offset on UNICOM (122.800).
+  * Pilots are advised to coordinate offset on Advisory Frequency (122.800).
 
 
 {{page>go-footer#GOOO}}
