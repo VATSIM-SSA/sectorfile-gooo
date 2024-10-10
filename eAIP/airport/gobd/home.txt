@@ -1,6 +1,6 @@
 ===== GOBD | Blaise Diagne Intl | Dakar-Diass, Senegal =====
 
-{{tabembed>about|About,delivery|Events,events|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+{{tabembed>about|About,events|Events,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
 
 
 ----
