@@ -12,7 +12,7 @@ New Departure Procedures (RNAV) are now available.
 
   * VFR flights are not allowed over and above the FL 150.
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruisel-evels#RVSM Feet}}
 
 ==== Departure Procedures & Initial Climbs ====
 
