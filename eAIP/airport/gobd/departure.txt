@@ -2,17 +2,18 @@
 
   * GOBD doesn't have a dedicated Departure Position, with Diass Approach (GOBD APP) assuming the role of Departure.
 
+<note important>
+New Departure Procedures (RNAV) are now available but have not yet been documented on this page.
+</note>
 
 ==== Departure Procedures ====
 
-  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
-  * If necessary, vector aircraft right (runway 01 departures) or left (runway 19 departures)
+  * Follow the newly published departure procedures and be mindful of speed and altitude restrictions.
 
 
 ==== Noise Abatement Procedures ====
 
-  * When take-off on RWY 01 with a clearance to turn right, the ACFT must maintain the RWY axis until 3000 ft before beginning right turn.
-  * When take-off on RWY 19 with a clearance to turn right, the ACFT must maintain the RWY axis during 3 minutes before beginning right turn.
+  * With the new RNAV Departure procedures in place, the old Noise Abatement Procedures have been suspended.
 
 
 ==== Coordinating GOBD & GOOY Departures ====
