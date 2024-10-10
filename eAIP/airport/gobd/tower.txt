@@ -33,7 +33,7 @@
 
 === Phraseology ===
 
-{{page>phraseology-icao#Takeoff Clearance}}
+{{page>phraseology:icao#Takeoff Clearance}}
 
 
 ==== Missed Approach Procedures ====
