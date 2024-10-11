@@ -12,8 +12,7 @@ New Departure Procedures (RNAV) are now available. Please familiarise yourself w
 
   * Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
 
-{{page>icao:cruiselevels#rvsm_feet}}
-
+{{page>icao:cruise-levels#RVSM Feet}}
 
 ==== Departure Procedures & Initial Climbs ====
 
