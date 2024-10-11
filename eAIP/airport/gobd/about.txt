@@ -39,8 +39,8 @@ More information available at [[https://en.wikipedia.org/wiki/Blaise_Diagne_Inte
 ==== Positions & Frequencies ====
 
 ^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
-| GOBD_ATIS | Diass ATIS        | 120.500   | - |
-| GOBD_DEL  | Diass Delivery    | 122.100   | //VATSIM Only// |
+| GOBD_ATIS | Diass ATIS        | 126.200   | - |
+| GOBD_DEL  | Diass Delivery    | 122.100   | //VATSIM Only, in predefined events// |
 | GOBD_GND  | Diass Ground      | 121.800   | - |
 | GOBD_TWR  | Diass Tower       | 118.800   | - |
 | GOBD_APP  | Diass Approach    | 120.500   | - |
