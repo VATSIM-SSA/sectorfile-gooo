@@ -6,36 +6,42 @@
 
   * GOBD Dakar-Diass Blaise Diagne Intl Airport is Dakar's most recent international airport, capable of supporting a higher volume of traffic movements and aircraft types than the historical GOOY Leopold Sedar Senghor airport. It is a single runway (01/19) airport with RNAV and ILS (01 only) approaches and multiple airport parking positions.
 
+  * All charts is public, and links to chose charts can be found on [[charts|this eAIP]]. 
+
 ==== Departure Briefing ====
 
 === Clearance Delivery ===
 
-* GOBD does not have a real world Delivery position but one has been created on VATSIM, particularly for busy events. If offline, contact Ground for Delivery Clearance.
+  * GOBD does not have a real world Delivery position but one has been created on VATSIM, particularly for busy events. If offline, contact Ground for Delivery Clearance.
 
-* When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter.
+  * When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter.
 
 === Departure Procedures ===
 
-* GOBD does not have structured departure procedures (SIDs) so you are expected to maintain runway heading until further instructions. Do not deviate from the runway heading after takeoff.
-
+  * GOBD have RNAV departures. Please inform controllers on first contact if you are unable to comply or follow one of the departures. Once a controller gives you a departure procedure to follow, please pay special attention to altitude and speed restrictions.
 
 ==== Arrival Briefing ====
 
 === Arrivals and Approaches ===
 
- * As your flight is approaching GOBD, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
+  * As your flight is approaching GOBD, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
 
- * Be aware that GOBD has 3 distinct sets of ILS Approaches (X, Y and Z) and that they have distinct approach procedures. Controllers will inform you what Approach to expect based on an assigned Arrival.
+  * Be aware that GOBD has 3 distinct sets of ILS Approaches (X, Y and Z) and that they have distinct approach procedures. Controllers will inform you what Approach to expect based on an assigned Arrival.
 
- * GOBD is a single runway airport, so during Arrival Events, you should expect to Hold.
+  * **During CTP, please expect one of the LIGOV or PIVSA STARs.** 
 
- * In case of Missed Approach, climb 3000 ft and maintain runway heading. You'll receive further instructions by the Controllers.
+  * **Please note, during CTP, a custom hold around PIVSA would be utilized. There will be a speed restrictions of 230 knots, the inbound course would be 60º, right hand turns, and each leg will be 10 NM. Pleasure ensure you are familiar with how to fly such a custom hold.**
 
- * During busy events, expect to vacate right on A3 if landing 01 or vacate left on A5 if landing 19. You might be requested by Tower to continue taxi after vacating the runway. Follow the instructions.
+  * GOBD is a single runway airport, so during Arrival Events (like CTP), you should expect to Hold.
+
+  * In case of a Missed Approach or a Go Around, climb to 3000 ft and maintain runway heading. You'll receive further instructions by the Controllers.
+
+  * During busy events, expect to vacate right on C3 if landing 01 or vacate left on C5 if landing 19. You might be requested by Tower to continue taxi after vacating the runway. Follow the instructions.
 
 === Parking and Ground Operations ===
 
-* GOBD has plenty of parking positions across multiple aprons. Initial aircraft may be offered the Main Terminal Apron whilst subsequent aircraft will be directed to adjacent Aprons. There is limited parking availability at the Cargo Apron and due to its location on the airfield, you may be requested to taxi to a different parking position during busy events.
+  * GOBD has plenty of parking positions across multiple aprons. Initial aircraft may be offered the Main Terminal Apron whilst subsequent aircraft will be directed to adjacent Aprons. There is limited parking availability at the Cargo Apron and due to its location on the airfield, you may be requested to taxi to a different parking position during busy events.
+  * During extreamly busy events, we ask that pilots disconnect within a reasonable timeframe of getting to their stands, in order to ensure there is enough stands for all pilots.
 
 
 {{page>go-footer#GOBD}}

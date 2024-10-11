@@ -33,27 +33,30 @@
 
 === Phraseology ===
 
-{{page>phraseology:icao#Takeoff Clearance}}
+{{page>phraseology-icao#Takeoff Clearance}}
 
 
 ==== Missed Approach Procedures ====
+  * Aircraft should intually climb to 3000 ft and maintain runway heading, once the aircraft have passed the runway, and all conflict is deconflicted, aircraft can follow the standard, published missed approach procedure, as well as contacting APP.
 
 ==== HIRO ====
 
   * When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
-  * If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
+  * If possible, Tower Controllers should advise pilots on which exit they should expect to vacate in advance, for example, it can be given with the landing clearance.
 
 ^ Rwy ^ Exit ^ Taxi Instructions ^ Remarks ^
 | 01  | C3 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
 | ::: | C2 | ::: | - |
-| 19  | C5 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
+| ::: | C1 | ::: | - |
+| 19  | C5 (High Speed) | <code>Taxi Left on CHARLIE</code> | - |
 | ::: | C6 | ::: | - |
-| ::: | C8 | - | //Cargo Apron Only// |
+| ::: | C8 | <code>Taxi Right on CHARLIE</code> | //Cargo Apron Only// |
 
+  * The exception with this rule, is that traffic landing on runway 19 and wishing to vacate at the end to Apron V will remain under control with the Tower Controllers, and should not be sent over to the Ground Controller.
 
 ==== VFR Operations ====
 
-  * Pilots must have the latest [[gobd-charts|Visual Approach Chart]].
+  * Pilots must have the latest [[charts|Visual Approach Chart]].
 
 
 === VFR Circuits ===
@@ -114,7 +117,7 @@
 
 ==== Helicopter Operations ====
 
-  * [[glossary#t|TLOF]] is available on TWY M, next to the threshold of RWY 19.
+  * [[:glossary#t|TLOF]] is available on TWY M, next to the threshold of RWY 19.
 
 
 

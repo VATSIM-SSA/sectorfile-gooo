@@ -1,18 +1,19 @@
 ===== GOBD Delivery =====
 
 <note important>
-New Departure Procedures (RNAV) are now available.
+New Departure Procedures (RNAV) are now available. Please familiarise yourself with it before controlling.
 </note>
 
 ==== IFR Clearance Rules ====
 
   * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
 
-  * Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
-
   * VFR flights are not allowed over and above the FL 150.
 
-{{page>icao:cruisel-evels#RVSM Feet}}
+  * Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
+
+{{page>icao:cruiselevels#rvsm_feet}}
+
 
 ==== Departure Procedures & Initial Climbs ====
 
@@ -31,7 +32,7 @@ New Departure Procedures (RNAV) are now available.
 | ::: | ERIDI | ERID1H    | :::        | FL070         | - |
 | ::: | LIGOV | LIGO1H    | :::        | FL070         | - |
 | ::: | NURAS | NURA1H    | :::        | FL070         | - |
-| //Please alert the pilots to the [[departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
+| //Please note, previously there had been Noise Abatement Procedures, but it has now been suspended.// ||||
 
 === Phraseology ===
 

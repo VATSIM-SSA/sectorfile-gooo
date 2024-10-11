@@ -1,15 +1,32 @@
 ===== GOBD Departure =====
 
-  * GOBD doesn't have a dedicated Departure Position, with Diass Approach (GOBD APP) assuming the role of Departure.
+  * GOBD doesn't have a dedicated Departure Position, with Diass Approach (GOBD_APP) assuming the role of Departure.
 
 <note important>
-New Departure Procedures (RNAV) are now available but have not yet been documented on this page.
+New Departure Procedures (RNAV) are now available. Please familiarise yourself with it before controlling.
 </note>
 
 ==== Departure Procedures ====
 
-  * Follow the newly published departure procedures and be mindful of speed and altitude restrictions.
+  * Follow the newly published departure procedures and be mindful of speed and altitude restrictions. Please note, on the table below, only the intual restrictions is referenced. Please refer to the charts to see all restrictions.
 
+  * The following departures is available:
+
+^ RWY ^ Fix   ^ Departure ^ Type       ^ Initial Altitude Restriction ^ Initial Altitude Restriction ^ Remarks ^
+| 01  | BIKIS | BIKI1B    | RNAV Dep   | -             | 265 KT | - |
+| ::: | LIMAX | LIMA1B    | :::        | -             | 265 KT | - |
+| ::: | SAKLI | SAKL1B    | :::        | -             | 265 KT | - |
+| ::: | BIDAV | BIDA1B    | :::        | 4000 ft       | 265 KT | - |
+| ::: | ERIDI | ERID1B    | :::        | 4000 ft       | 265 KT | - |
+| ::: | LIGOV | LIGO1B    | :::        | -             | 265 KT | - |
+| ::: | NURAS | NURA1B    | :::        | 4000 ft       | 265 KT | - |
+| 19  | BIKIS | BIKI1H    | RNAV Dep   | FL100         | 265 KT | - |
+| ::: | LIMAX | LIMA1H    | :::        | FL100         | 265 KT | - |
+| ::: | SAKLI | SAKL1H    | :::        | FL100         | 265 KT | - |
+| ::: | BIDAV | BIDA1H    | :::        | -             | 265 KT | - |
+| ::: | ERIDI | ERID1H    | :::        | FL100         | 265 KT | - |
+| ::: | LIGOV | LIGO1H    | :::        | -             | 265 KT | - |
+| ::: | NURAS | NURA1H    | :::        | FL100         | 265 KT | - |
 
 ==== Noise Abatement Procedures ====
 
@@ -18,7 +35,7 @@ New Departure Procedures (RNAV) are now available but have not yet been document
 
 ==== Coordinating GOBD & GOOY Departures ====
 
-  * Both GOBD and [[GOOY]] have North / South runways, 30 nm apart. When operating as Diass Approach (GOBD APP) and assuming the role of Departure, controllers must be mindful of simultaneous departures from both airports and keep aircraft separated.
+  * Both GOBD and [[airport:GOOY:home]] have North / South runways, 30 nm apart. When operating as Diass Approach (GOBD APP) and assuming the role of Departure, controllers must be mindful of simultaneous departures from both airports and keep aircraft separated.
 
 
 {{page>go-footer#GOBD}}
