@@ -1,6 +1,6 @@
 ===== GOBD Information =====
 
-**Blaise Diagne International Airport** (French: Aéroport International Blaise Diagne) is an international airport near the town of Diass in Thiès Region, [[Senegal]], 43 kilometres (27 mi) east of downtown Dakar. It serves as the main airport for Dakar, replacing Léopold Sédar Senghor International Airport ([[GOOY]]), which had become too small. It is named after Blaise Diagne, the first black African elected to France's parliament in 1914. 
+**Blaise Diagne International Airport** (French: Aéroport International Blaise Diagne) is an international airport near the town of Diass in Thiès Region, [[country:senegal:home|Senegal]], 43 kilometres (27 mi) east of downtown Dakar. It serves as the main airport for Dakar, replacing Léopold Sédar Senghor International Airport ([[airport:gooy:home|GOOY]]), which had become too small. It is named after Blaise Diagne, the first black African elected to France's parliament in 1914. 
 
 More information available at [[https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport|Wikipedia]].
 
