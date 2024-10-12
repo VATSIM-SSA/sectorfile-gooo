@@ -4,47 +4,57 @@
 GOBD RNAV (GNSS) Approaches are now RNP Approaches. New Enroute Holdings Established. New Arrival Procedures. Please familiarise yourself with these procedures before controlling.
 </note>
 
+RNP via KOSOM
+VOR Z ARCHE
+VOR Y
+
 ==== Arrivals Procedures ====
 
 ^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach  ^ Remarks ^
-| 01    | AMROD | AMRO2D    | Conventional  | 47 nm         | ILS Z     | - |
-| :::   | :::   | AMRO3D    | :::           | 46 nm         | ILS X / RNP via DEPAL | - |
-| :::   | BIKIS | BIKI2D    | :::           | 135 nm        | ILS Z     | - |
-| :::   | :::   | BIKI3D    | :::           | 120 nm        | ILS X / RNP via DEPAL | - |
-| :::   | :::   | BIKI2V    | :::           | 99 nm         | ILS Y     | - |
-| :::   | BJ    | BJ2D      | :::           | 67 nm         | ILS X / RNP via DEPAL | - |
-| :::   | ERIDI | ERID2D    | :::           | 139 nm        | ILS Z     | - |
-| :::   | KITNI | KITN2D    | :::           | 125 nm        | :::       | - |
-| :::   | LIGOV | LIGO2D    | :::           | 151 nm        | :::       | - |
-| :::   | :::   | LIGO3D    | :::           | 165 nm        | ILS X / RNP via DEPAL | - |
-| :::   | LIMAX | LIMA2D    | :::           | 154 nm        | ILS Z     | - |
-| :::   | :::   | LIMA3D    | :::           | 148 nm        | ILS X / RNP via DEPAL | - |
-| :::   | :::   | LIMA2V    | :::           | 127 nm        | ILS Y     | - | 
-| :::   | NURAS | NURA2D    | :::           | 101 nm        | ILS Z     | - |
-| :::   | PIVSA | PIVS2D    | :::           | 58 nm         | :::       | - |
-| :::   | SLO   | SLO2D     | :::           | 127 nm        | :::       | - | 
-| :::   | :::   | SLO3D     | :::           | 111 nm        | ILS X / RNP via DEPAL | - |
-| :::   | :::   | SLO2V     | :::           | 90 nm         | ILS Y     | - |
-| 19    | AMROD | AMRO1K    | :::           | 17 nm         | RNP via KOSOM | - |
-| :::   | BIKIS | BIKI1K    | :::           | 85 nm         | :::       | - |
-| :::   | :::   | BIKI1G    | :::           | 98 nm         | :::       | - |
-| :::   | BIDAV | BIDA1K    | :::           | 82 nm         | :::       | - |
-| :::   | :::   | BIDA1V    | :::           | 84 nm         | :::       | - |
-| :::   | :::   | BIDA1G    | :::           | 116 nm        | :::       | - |
-| :::   | ERIDI | ERID1K    | :::           | 141 nm        | RNP via KOSOM | - |
-| :::   | :::   | ERID1G    | :::           | 186 nm        | :::       | - |
-| :::   | :::   | ERID1V    | :::           | 143 nm        | VOR Y     | - |
-| :::   | KITNI | KITN1K    | :::           | 123 nm        | RNP via KOSOM | - |
-| :::   | LIGOV | LIGO1K    | :::           | 136 nm        | :::       | - |
-| :::   | :::   | LIGO1G    | :::           | 152 nm        | :::       | - | 
-| :::   | LIMAX | LIMA1K    | :::           | 111 nm        | :::       | - |
-| :::   | :::   | LIMA1G    | :::           | 111 nm        | :::       | - |
-| :::   | NURAS | NURA1K    | :::           | 94 nm         | :::       | - |
-| :::   | :::   | NURA1G    | :::           | 115 nm        | :::       | - |
-| :::   | PIVSA | PIVS1K    | :::           | 65 nm         | :::       | - |
-| :::   | :::   | PIVS1V    | :::           | 67 nm         | :::       | - |
-| :::   | SAKLI | SAKLI1K   | :::           | 73 nm         | :::       | - |
-| :::   | :::   | SAKLI1G   | :::           | 95 nm         | :::       | - |
+| 01    | AMROD | AMRO1D    | Conventional  | 41 nm         | ILS Z       | - |
+| :::   | :::   | AMRO1V    | :::           | 43 nm         | ILS Y       | - |
+| :::   | BIDAV | BIDA1D    | :::           | 66 nm         | :::         | - |
+| :::   | :::   | BIDA1A    | :::           | 85 nm         | ILS X / RNP via DEPAL     | - |
+| :::   | BIKIS | BIKI1D    | :::           | 97 nm         | ILS Z       | - |
+| :::   | :::   | BIKI1A    | :::           | 137 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | :::   | BIKI1V    | :::           | 99 nm         | ILS Y       | - |
+| :::   | ERIDI | ERID1D    | :::           | 140 nm        | ILS Z       | - |
+| :::   | :::   | ERID1A    | :::           | 150 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | KITNI | KITN1D    | :::           | 117.8 nm      | ILS Z       | - |
+| :::   | LIGOV | LIGO1D    | :::           | 142 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | :::   | LIGO1V    | :::           | 144 nm        | ILS Y       | - |
+| :::   | :::   | LIGO1A    | :::           | 168 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | LIMAX | LIMA1D    | :::           | 125 nm        | ILS Z       | - |
+| :::   | :::   | LIMA1V    | :::           | 127 nm        | ILS Y       | - |
+| :::   | :::   | LIMA1A    | :::           | 169 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | NURAS | NURA1D    | :::           | 94 nm         | ILS Z       | - |
+| :::   | :::   | NURA1A    | :::           | 114 nm        | ILS X / RNP via DEPAL     | - |
+| :::   | PIVSA | PIVS1D    | :::           | 68 nm         | :::         | - |
+| :::   | SAKLI | SAKLI1D   | :::           | 89 nm         | ILS Z       | - |
+| :::   | :::   | SAKLI1V   | :::           | 91 nm         | ILS Y       | - |
+| :::   | :::   | SAKLI1A   | :::           | 129 nm        | ILS X / RNP via DEPAL     | - |
+
+
+| 19    | AMROD | AMRO1K    | :::           | 17 nm         | VOR Z               | - |
+| :::   | BIDAV | BIDA1K    | :::           | 82 nm         | VOR Z               | - |
+| :::   | :::   | BIDA1V    | :::           | 84 nm         | VOR Y               | - |
+| :::   | :::   | BIDA1G    | :::           | 116 nm        | RNP via KOSOM       | - |
+| :::   | BIKIS | BIKI1K    | :::           | 85 nm         | VOR Z               | - |
+| :::   | :::   | BIKI1G    | :::           | 98 nm         | RNP via KOSOM       | - |
+| :::   | ERIDI | ERID1K    | :::           | 141 nm        | VOR Z               | - |
+| :::   | :::   | ERID1G    | :::           | 186 nm        | RNP via KOSOM       | - |
+| :::   | :::   | ERID1V    | :::           | 143 nm        | VOR Y               | - |
+| :::   | KITNI | KITN1K    | :::           | 123 nm        | VOR Z               | - |
+| :::   | LIGOV | LIGO1K    | :::           | 136 nm        | VOR Z               | - |
+| :::   | :::   | LIGO1G    | :::           | 152 nm        | RNP via KOSOM       | - | 
+| :::   | LIMAX | LIMA1K    | :::           | 111 nm        | VOR Z               | - |
+| :::   | :::   | LIMA1G    | :::           | 111 nm        | RNP via KOSOM       | - |
+| :::   | NURAS | NURA1K    | :::           | 94 nm         | VOR Z               | - |
+| :::   | :::   | NURA1G    | :::           | 115 nm        | RNP via KOSOM       | - |
+| :::   | PIVSA | PIVS1K    | :::           | 65 nm         | VOR Z               | - |
+| :::   | :::   | PIVS1V    | :::           | 67 nm         | VOR Y               | - |
+| :::   | SAKLI | SAKLI1K   | :::           | 73 nm         | VOR Z               | - |
+| :::   | :::   | SAKLI1G   | :::           | 95 nm         | RNP via KOSOM       | - |
 
 
 === Approach Procedures ===
