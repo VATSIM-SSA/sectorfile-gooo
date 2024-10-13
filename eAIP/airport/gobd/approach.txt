@@ -4,10 +4,6 @@
 GOBD RNAV (GNSS) Approaches are now RNP Approaches. New Enroute Holdings Established. New Arrival Procedures. Please familiarise yourself with these procedures before controlling.
 </note>
 
-RNP via KOSOM
-VOR Z ARCHE
-VOR Y
-
 ==== Arrivals Procedures ====
 
 ^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach  ^ Remarks ^
