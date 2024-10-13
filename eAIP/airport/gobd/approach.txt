@@ -29,8 +29,6 @@ GOBD RNAV (GNSS) Approaches are now RNP Approaches. New Enroute Holdings Establi
 | :::   | SAKLI | SAKLI1D   | :::           | 89 nm         | ILS Z       | - |
 | :::   | :::   | SAKLI1V   | :::           | 91 nm         | ILS Y       | - |
 | :::   | :::   | SAKLI1A   | :::           | 129 nm        | ILS X / RNP via DEPAL     | - |
-
-
 | 19    | AMROD | AMRO1K    | :::           | 17 nm         | VOR Z               | - |
 | :::   | BIDAV | BIDA1K    | :::           | 82 nm         | VOR Z               | - |
 | :::   | :::   | BIDA1V    | :::           | 84 nm         | VOR Y               | - |
