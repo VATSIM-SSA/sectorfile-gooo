@@ -18,7 +18,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:GOBD Groundlayout:
 Geo:GOOY Groundlayout:
 SHOWC:1
 SHOWSB:1
@@ -35,4 +34,4 @@ DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:14.272323:-18.789242:16.405658:-14.801342
 PLUGIN:TopSky plugin:HideMapData:ICAO
-PLUGIN:TopSky plugin:ShowMapData:GOOO
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GOBD

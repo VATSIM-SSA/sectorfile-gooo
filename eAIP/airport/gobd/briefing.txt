@@ -6,7 +6,7 @@
 
   * GOBD Dakar-Diass Blaise Diagne Intl Airport is Dakar's most recent international airport, capable of supporting a higher volume of traffic movements and aircraft types than the historical GOOY Leopold Sedar Senghor airport. It is a single runway (01/19) airport with RNAV and ILS (01 only) approaches and multiple airport parking positions.
 
-  * All charts are public, and links to chose charts can be found on [[charts|this eAIP]]. 
+  * All charts are public, and links to chose charts can be found on [[charts|this eAIP page]]. 
 
 ==== Departure Briefing ====
 
@@ -30,7 +30,7 @@
 
   * **During CTP, please expect one of the LIGOV or PIVSA STARs.** 
 
-  * **Please note, during CTP, a custom hold at PIVSA may be activated. There will be a speed restrictions of 230 knots, the inbound course would be 060º, right hand turns, and each leg will be 10 NM. Pleasure ensure you are familiar with how to fly such a custom hold.**
+  * **Please note, during CTP, a custom hold at PIVSA may be activated. If activated, there will be a speed restrictions of 230 knots, the inbound course will be 060º, with right hand turns, and each leg will be 10 NM. Pleasure ensure you are familiar with how to fly such a custom hold.**
 
   * GOBD is a single runway airport, so during Arrival Events (like CTP), you should expect to Hold.
 
