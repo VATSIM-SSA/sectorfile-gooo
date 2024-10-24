@@ -71,13 +71,14 @@ GOBD RNAV (GNSS) Approaches are now RNP Approaches. New Enroute Holdings Establi
 | DEPAL | -     | 3000 ft to FL090  | 230 KT        | 006º | Right | 1 min | Runway 01 | - |
 | BILIV | -     | 3000 ft to FL090  | 230 KT        | 096º | Right | 1 min | Runway 01 | - |
 | KOSOM | -     | 3000 ft to FL090  | 230 KT        | 186º | Right | 1 min | Runway 19 | - |
-| PIVSA | -     | 3000 ft to FL090  | 230 KT        | 060º | Right | 10 NM Legs | Both | //Custom hold for CTP// |
 | TISAS | -     | 3000 ft to FL090  | 230 KT        | 096º | Left  | 1 min | Runway 19 | - |
 |||||||||
-| LIGOV | -     | FL240 to FL300  | 280 KT        | 117º | Right | 10 nm | Enroute | - |
-| PIVSA | -     | FL140 to FL300  | 280 KT        | 060º | Right | 10 nm | ::: | - |
+| LIGOV | -     | FL240 to FL300  | 280 KT        | 117º | Right | 10 nm | Enroute | Hold active for CTP - Custom|
+| PIVSA | -     | FL140 to FL300  | 280 KT        | 060º | Right | 10 nm | ::: | Hold active for CTP - Custom |
 
+==== CTP 2024 ====
 
+  * There will be two incoming streams of traffic into GOBD. These stream's last waypoints is LIGOV and PIVSA. Custom enroute holds, as mentioned above, may be utilized for these waypoints.
 
 ==== Missed Approach Procedures ====
 
