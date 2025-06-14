@@ -1,6 +1,8 @@
 {
-	"Name": "GOOO Dakar FIR v2",
-	"Composites": [
+	"Name": "GOOO Dakar FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-gooo/refs/heads/main/vATIS/GOOO.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Dakar-Diass Blaise Diagne Intl",
 			"Identifier": "GOBD",
